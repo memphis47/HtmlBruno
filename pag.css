@@ -1,0 +1,60 @@
+
+            body{
+               background-color:#7f8c8d;
+            }
+
+            p.Nome{
+            
+                color:rgb(290, 186, 94);
+                font-size:27px;
+                margin: 10px;
+                margin-bottom: 160px;
+                text-shadow: 0.1em 0.1em 0.2em black;
+                           
+            }
+            nav.LeftMenu{
+                background-color:#95a5a6;            
+                float:left;
+                text-align:center;
+                vertical-align:middle;
+                height:600px;
+                margin: 2px;
+                
+            }
+            
+            a.Links{
+            	display:block;
+            	text-decoration:none;
+            	color:rgb(280, 176, 84);
+            	font-size: 20px;
+            	margin-top: 20px;
+                text-shadow: 0.1em 0.1em 0.2em black;
+            }
+
+            a.LinksPers{
+            	text-decoration:none;
+                text-align:left;
+                margin-top:40px;
+                text-shadow: 0.1em 0.1em 0.2em black;
+            }
+            
+            article.Home{
+            	background-color:rgb(169,185,186);
+                height:600px;
+            }
+            
+            p.HomeText{
+            	color:rgb(280, 196, 84);
+                font-size:18px;
+                text-align:left;
+                margin: 10px;
+                text-shadow: 0.1em 0.1em 0.2em black;
+            }
+            
+            img.image{
+                height:100px;
+                width:100px;
+        
+            }
+
+
