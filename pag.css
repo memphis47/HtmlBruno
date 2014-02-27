@@ -3,15 +3,15 @@
                background-image: url('Images/bg.png');
             }
 
-	    nav{
-               margin-left:256px;
-               margin-top:50px;
-	    }
-			
-	    li{
-	       color:rgb(290, 186, 94);
-	       text-shadow: 0.1em 0.1em 0.2em black;
-	    }
+			nav{
+				   margin-left:50px;
+				   margin-right:50px;
+			}
+				
+			li{
+			   color:rgb(290, 186, 94);
+			   text-shadow: 0.1em 0.1em 0.2em black;
+			}
 				
 			
             p.Nome{
@@ -30,38 +30,38 @@
                 text-align:center;
                 vertical-align:middle;
                 height:724px;
-		width:325px;
-		box-shadow: 0px 8px 15px #ccc;
-		border-top-left-radius:2em;
-		border-bottom-left-radius:2em;
+				width:325px;
+				box-shadow: 0px 8px 15px #ccc;
+				border-top-left-radius:2em;
+				border-bottom-left-radius:2em;
 				
             }
             
-            a.Links{
+            .Links{
             	display:block;
             	text-decoration:none;
             	color:rgb(280, 176, 84);
             	font-size: 20px;
             	margin-top: 20px;
                 text-shadow: 0.1em 0.1em 0.2em black;
-		border:none;
+				border:none;
             }
 
             a.LinksPers{
             	text-decoration:none;
                 text-align:left;
                 text-shadow: 0.1em 0.1em 0.2em black;
-		border:none;
+				border:none;
             }
             
             article.Home{
             	background-color:rgba(169,185,186,0.5);
-	        float:left;
+				float:left;
                 height:724px;
-		width:695px;
-		box-shadow: 5px 8px 15px #ccc;
-		border-top-right-radius:2em;
-		border-bottom-right-radius:2em;
+				width:599px;
+				box-shadow: 5px 8px 15px #ccc;
+				border-top-right-radius:2em;
+				border-bottom-right-radius:2em;
             }
             
             p.HomeText{
@@ -72,72 +72,76 @@
                 text-shadow: 0.1em 0.1em 0.2em black;
             }
 			
-	    p.HomeTextTop{
-            	color:rgb(280, 196, 84);
-                font-size:18px;
-                text-align:left;
-                margin-left: 5%;
-		margin-top:30%;
-                text-shadow: 0.1em 0.1em 0.2em black;
-            }
-            
-	    .tables{
-		margin-left:15%;
-		margin-right:15%;
-		margin-top:15%;
+			p.HomeTextTop{
+					color:rgb(280, 196, 84);
+					font-size:18px;
+					text-align:left;
+					margin-left: 5%;
+					margin-top:30%;
+					text-shadow: 0.1em 0.1em 0.2em black;
+				}
 				
-	    }
+			.tables{
+				margin-left:15%;
+				margin-right:15%;
+				margin-top:15%;
+					
+			}
+				
+			.image{
+				height:100px;
+				width:100px;
 			
-            .image{
-                height:100px;
-                width:100px;
-        
-            }
+			}
+				
+			.imageUtil{
+				height:70px;
+			}
 			
-	    .imageUtil{
-		height:80px;
-	    }
+			.imageUtilSc{
+				height:50px;
+			}
 
-	    tr{
-		height:150px;
-			
-	    }
-			
-	    th{
-		width:200px;
-	    }
-			
-	    .Personal{
-	        background-color:rgba(169,185,186,0.8);
-		float:left;
-                height:724px;
-		width:695px;
-			
-	    }
-			
-	    .quote{
-	        color:rgb(280, 196, 84);
-                font-size:15px;
-                text-align:left;
-                margin-left: 5%;
-                text-shadow: 0.1em 0.1em 0.2em black;
-	     }
-			
-	     .foot{
-	        margin-top:100px;
-			
-	     }
+			tr{
+				height:150px;
+				
+			}
+				
+			th{
+				width:200px;
+			}
+				
+			.Personal{
+				background-color:rgba(169,185,186,0.8);
+				float:left;
+				height:724px;
+				width:695px;
+				
+			}
+				
+			.quote{
+				color:rgb(280, 196, 84);
+				font-size:15px;
+				text-align:left;
+				margin-left: 5%;
+				text-shadow: 0.1em 0.1em 0.2em black;
+			}
+				
+			.foot{
+				margin-top:100px;
+				
+			}
 
-             .footCss{
-                margin-top:300px;
-             }
-			
-	     .pageDefinition{
-		color:rgb(290, 186, 94);
-                font-size:27px;
-                margin: 10px;
-		text-align:center;
-                margin-bottom: 50px;
-                text-shadow: 0.1em 0.1em 0.2em black;
-			
-	     }
+			.footCss{
+				margin-top:300px;
+			}
+				
+			.pageDefinition{
+				color:rgb(290, 186, 94);
+				font-size:27px;
+				margin: 10px;
+				text-align:center;
+				margin-bottom: 50px;
+				text-shadow: 0.1em 0.1em 0.2em black;
+				
+			 }
