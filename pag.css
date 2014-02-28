@@ -1,9 +1,8 @@
-
             body{
                background-image: url('Images/bg.png');
             }
 
-			menu{
+			main{
 				   left:50%;
 				   margin-left:-512px;
                                    margin-bottom:20px;
